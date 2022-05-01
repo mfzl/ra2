@@ -264,6 +264,8 @@ World:
 		ShortGameCheckboxDisplayOrder: 2
 		TechLevelDropdownDisplayOrder: 3
 		GameSpeedDropdownDisplayOrder: 4
+		TechLevel: medium
+		GameSpeed: fastest
 	CreateMPPlayers:
 	MPStartUnits@amcv:
 		Class: none

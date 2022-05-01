@@ -93,6 +93,7 @@ Player:
 	GpsWatcher:
 	Shroud:
 		FogCheckboxDisplayOrder: 3
+		FogCheckboxEnabled: false
 	LobbyPrerequisiteCheckbox@GLOBALFACTUNDEPLOY:
 		ID: factundeploy
 		Label: Redeployable MCVs
